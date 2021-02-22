@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Chrome and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>.com.github.lzy0.munki.Chrome</string>
+	<string>com.github.lzy0.munki.Chrome</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
@@ -23,7 +23,7 @@
 				<string>testing</string>
 			</array>
 			<key>description</key>
-			<string>Modern and fast Web browser.</string>
+			<string>Early Google Chrome builds for developers.</string>
 			<key>developer</key>
 			<string>Google, Inc.</string>
 			<key>display_name</key>
@@ -37,7 +37,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>.com.github.lzy0.download.Chrome</string>
+	<string>com.github.lzy0.download.Chrome</string>
 	<key>Process</key>
 	<array>
 		<dict>
