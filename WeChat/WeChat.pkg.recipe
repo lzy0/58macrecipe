@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of WeChat and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.github.lzy0.pkg.WeChat</string>
+	<string>.com.github.lzy0.pkg.WeChat</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.lzy0.download.WeChat</string>
+	<string>.com.github.lzy0.download.WeChat</string>
 	<key>Process</key>
 	<array>
 		<dict>

@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of WeChat.</string>
 	<key>Identifier</key>
-	<string>com.github.lzy0.download.WeChat</string>
+	<string>.com.github.lzy0.download.WeChat</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
